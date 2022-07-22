@@ -1,5 +1,5 @@
 {
-  customers: [
+  'customers': [
     {
       id: '192589012590172045125',
       diabetesType: Image01,
